@@ -4,7 +4,7 @@
  * @param {number} num2 - The second number to add.
  * @returns {number} - The sum of num1 and num2.
  */
-function addNumbers(num1, num2) 
+function addNumbers(num1, num2) {
   const sum = num1 + num2;
   return sum;
 }
